@@ -12,12 +12,15 @@
         android:id="@+id/enteredEmail"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="@string/dummy"        
  		/>
     
     <TextView
         android:id="@+id/enteredPassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@id/enteredEmail"
+        android:text="@string/dummy"          
         />
     
 

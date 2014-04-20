@@ -8,5 +8,5 @@
     <string name="email">Enter email address</string>
     <string name="password">Enter password</string>
     <string name="signin">Sign in</string>
-
+	<string name="dummy">Dummy</string>
 </resources>
